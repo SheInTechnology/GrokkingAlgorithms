@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\xampp\htdocs\GrokkingAlgorithms\CH 1 introduction  to algorithms\BinarySearch\Source.cpp(32,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BinarySearch.vcxproj -> C:\xampp\htdocs\GrokkingAlgorithms\CH 1 introduction  to algorithms\BinarySearch\Debug\BinarySearch.exe
