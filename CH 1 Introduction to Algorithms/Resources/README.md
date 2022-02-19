@@ -24,4 +24,4 @@
 
 - https://www.youtube.com/watch?v=SRdaS9rOfhI&ab_channel=%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%AF
 > Arabic explaination for the problem.
-! The solution of the problem includes dynamic programming which is discussed in chapter 9.
+The solution of the problem includes dynamic programming which is discussed in chapter 9.
